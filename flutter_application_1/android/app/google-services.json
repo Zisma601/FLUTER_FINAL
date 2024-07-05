@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015018475440",
+    "project_id": "gatito-d4535",
+    "storage_bucket": "gatito-d4535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015018475440:android:165e014477e3e984e51075",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3lRLNYUBx-WHP0nhmKc7hn0bm_CVERzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
